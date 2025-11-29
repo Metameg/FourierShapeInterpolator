@@ -7,3 +7,7 @@ We still need to do the dataset / experimental part I think, but it shouldn't be
 ## Update 11/27
 
 I have the completed experiment and the updated demo live scripts uploaded. To run the experiment, download and extract the original.zip dataset and place the folder in the project's root. Then you just need to run the experiment.mlx file in matlab to see the results. After running through 1000 pairs of images, the Average Euclidean Distance was about 21 pixels, which seems good enough to me.
+
+## Report Details
+
+Dataset - MPEG-7 Set B
